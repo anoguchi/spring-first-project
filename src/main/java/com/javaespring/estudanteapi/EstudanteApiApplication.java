@@ -1,13 +1,13 @@
-package com.firstproject.myfirstproject;
+package com.javaespring.estudanteapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MyFirstProjectApplication {
+public class EstudanteApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MyFirstProjectApplication.class, args);
+		SpringApplication.run(EstudanteApiApplication.class, args);
 	}
 
 }

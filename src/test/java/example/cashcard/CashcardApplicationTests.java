@@ -1,10 +1,10 @@
-package com.javaespring.estudanteapi;
+package example.cashcard;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EstudanteApiApplicationTests {
+class CashcardApplicationTests {
 
 	@Test
 	void contextLoads() {

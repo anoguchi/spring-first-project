@@ -1,13 +1,13 @@
-package com.javaespring.estudanteapi;
+package example.cashcard;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EstudanteApiApplication {
+public class CashcardApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EstudanteApiApplication.class, args);
+		SpringApplication.run(CashcardApplication.class, args);
 	}
 
 }
